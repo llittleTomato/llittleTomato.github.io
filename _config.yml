@@ -3,7 +3,7 @@ title: SKY BLOG
 SEOTitle: 番茄的博客 | SKY
 header-img: img/post-bg-desk.jpg
 email: shikeyi627@163.com
-description: "自信，乐观，追寻自己的生活方式."
+description: "自信，乐观，向上，追寻自己的生活"
 keyword: "学习, 生活"
 url: "https://llittleTomato.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/llittleTomato/llittleTomato.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Life is so beautiful! Enjoy it!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
