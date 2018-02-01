@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
-SEOTitle: 番茄的博客 | BY Blog
+title: SKY BLOG
+SEOTitle: 番茄的博客 | SKY
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: shikeyi627@163.com
+description: "沐浴上天的恩赐，迎着晨曦."
 keyword: "学习, 生活"
 url: "https://llittleTomato.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
